@@ -1,2 +1,0 @@
-Wireshark thinks that ther server and client are exchanging Mini SQL messages because tcp port 1114
-being used by the server is reserved for Mini SQL trafic
